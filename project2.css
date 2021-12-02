@@ -1,0 +1,198 @@
+.head{
+    display: inline-block;
+    position: relative;
+    right: 400px;
+    top: 187px;
+}
+.h2{
+    font-size: 30px;
+    position: relative;
+    left: 320px;
+    top: 100px;
+}
+.lt{
+    text-decoration: line-through;
+    color: red;
+    font-size: 20px;
+}
+.box{
+    border: 2px solid red;
+    width: 200px;
+    height: 250px;
+    color: red;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.box1{
+    position: relative;
+    right: 340px;
+    top: 100px;
+   
+}
+.link{
+    color: inherit; 
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+}
+.box2{
+    position: relative;
+    left: -40px;
+    bottom: 155px ;
+}
+.box3{
+    position: relative;
+    bottom: 410px;
+    left: 260px;
+}
+.add{
+    font-size: 30px;
+    position: relative;
+    bottom: 790px;
+    left: 250px;
+}
+.icon{
+    font-size: 30px;
+    position: relative;
+    bottom: 725px;
+    left: 830px;
+    color: red;
+}
+.ilink1{
+    color: inherit; 
+    text-decoration: none;
+    color: red;
+
+}
+.t1{
+    color: black;
+}
+.a1{
+    font-size: 30px;
+    position: relative;
+}
+.a1:before{
+    content: "";
+    display: block;
+    width: 120px;
+    height: 2px;
+    background: #000;
+    position: absolute;
+    left: 400px;
+    top:50%
+}
+.a1:after{
+    content: "";
+    display: block;
+    width: 120px;
+    height: 2px;
+    background: #000;
+    position: absolute;
+    left: 840px;
+    top:50%
+
+}
+.box4{
+    position: relative;
+    top: 150px;
+}
+.icon2{
+    font-size: 30px;
+    position: relative;
+    top: 110px;
+    left: 740px;
+    color: red;
+    
+}
+.back{
+    font-size: 30px;
+    position: relative;
+    bottom: 280px;
+    left: 650px;
+}
+.icon3{
+    font-size: 30px;
+    color: red;
+    position: relative;
+    bottom: 340px;
+    left: 610px;
+}
+.ilink{
+    color: inherit; 
+    text-decoration: none;
+    color: red;
+}
+.x1{
+    font-size: 30px;
+    border: 2px solid red;
+    color: red;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 400px;
+}
+.bt{
+    font-size: 20px;
+    border: 2px solid red;
+    width: 120px;
+    height: 60px;
+    border-radius: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+    left:610px ;
+    background: red;
+    color:white
+
+}
+.imga{
+    background-image: url(./WhatsApp\ Image\ 2021-12-02\ at\ 11.50.18\ PM.jpeg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    filter: blur(5px);
+    -webkit-filter: blur(5px)
+}
+.imgb{
+    background-image: url(./i22.png);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    filter: blur(5px);
+    -webkit-filter: blur(5px)
+
+}
+.x2{
+    font-size: 30px;
+    border: 2px solid red;
+    color: red;
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 400px;
+}
+.bt1{
+    font-size: 20px;
+    border: 2px solid red;
+    width: 120px;
+    height: 60px;
+    border-radius: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+    left:610px ;
+    background: red;
+    color:white
+
+}
+
